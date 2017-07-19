@@ -1,0 +1,11 @@
+# basic options
+title: Any title
+user: GitHub User
+email: maowia.shareef@uofk.edu
+description: Awonderfull Site
+twitter_username: maowia
+github_username: mashaer
+
+# build settings
+markdown: mashaer
+theme: solar-theme-jekyll-master
